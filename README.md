@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 ## 📊 实时编程统计
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-282%20hrs%2041%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-123.38%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -51,49 +49,8 @@ Here are some ideas to get you started:
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-🌆 Daytime                67 commits          ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-🌃 Evening                84 commits          ████████░░░░░░░░░░░░░░░░░   30.88 % 
-🌙 Night                  92 commits          ████████░░░░░░░░░░░░░░░░░   33.82 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   45 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Tuesday                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Wednesday                83 commits          ████████░░░░░░░░░░░░░░░░░   30.51 % 
-Thursday                 16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Friday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Saturday                 25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Sunday                   50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 2 hrs 16 mins       ██████████████░░░░░░░░░░░   56.04 % 
-Python                   1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   36.44 % 
-YAML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-
-🔥 Editors: 
-PyCharm                  2 hrs 34 mins       ████████████████░░░░░░░░░   63.50 % 
-Unknown Editor           1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   36.50 % 
-
-💻 Operating System: 
-Windows                  4 hrs 3 mins        █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 13/05/2026 02:42:26 UTC
+ Last Updated on 15/05/2026 02:44:20 UTC
 <!--END_SECTION:waka-->
 
 ---
