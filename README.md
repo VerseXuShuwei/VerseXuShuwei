@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 ## 📊 实时编程统计
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2057%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-123.38%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -91,7 +89,7 @@ Windows                  0 secs              ███████████�
 ```
 
 
- Last Updated on 23/05/2026 02:37:21 UTC
+ Last Updated on 24/05/2026 02:49:05 UTC
 <!--END_SECTION:waka-->
 
 ---
