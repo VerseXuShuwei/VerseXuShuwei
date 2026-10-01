@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ## 📊 实时编程统计
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%2035%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2010%20mins-blue?style=flat)
 
@@ -80,42 +80,25 @@ Sunday                   50 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 44 mins             ███████████████████████░░   90.30 % 
-Python                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Markdown                 4 mins              ████████████████████████░   97.83 % 
+textmate                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Claude Code              44 mins             ██████████████████████░░░   89.91 % 
-PyCharm                  4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+PyCharm                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  49 mins             █████████████████████████   100.00 % 
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 mins (89.91%)
-
-✍️ 977 lines written by AI, 267 lines written by hand (78.54% AI-written)
-
-🔤 403,206 Input Tokens, 95,819 Output Tokens
-
-💵 $8.57 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 7 AI Prompts
-
-Opus                     998 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 78.54% of written lines came from AI
-📝 Concise Prompter — average 330 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 21.11% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 30/09/2026 03:40:58 UTC
+ Last Updated on 01/10/2026 03:47:02 UTC
 <!--END_SECTION:waka-->
 
 ---
